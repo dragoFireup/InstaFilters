@@ -3,7 +3,7 @@ import cv2
 
 cap = cv2.VideoCapture(0)
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
-out = cv2.VideoWriter('fast.avi',fourcc, 80, (640,480))
+out = cv2.VideoWriter('Boomerang.avi',fourcc, 80, (640,480))
 
 frames = []
 
