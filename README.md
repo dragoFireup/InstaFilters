@@ -9,5 +9,7 @@ Future Updates for Boomerang.py:
 Future Updates for this Repository:
 
 -> Added a few more filters
+
 -> Run these filters on the cloud
+
 -> Use those instanses on the cloud to use it in an app with the code of the app in this repository.
