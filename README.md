@@ -9,7 +9,3 @@ I really don't know what this filter is called its just that the image gets smal
 Future Updates for this Repository:
 
 -> Add a few more filters
-
--> Run these filters on the cloud
-
--> Use those instanses on the cloud to use it in an app with the code of the app in this repository.
