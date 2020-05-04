@@ -8,7 +8,7 @@ I really don't know what this filter is called its just that the image gets smal
 
 Future Updates for this Repository:
 
--> Added a few more filters
+-> Add a few more filters
 
 -> Run these filters on the cloud
 
